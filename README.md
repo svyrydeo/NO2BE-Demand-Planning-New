@@ -49,7 +49,7 @@ This repository contains a reproducible analytics workflow using four provided s
 From repository root:
 
 ```bash
-01_analysis.R
+Rscript 01_analysis.R
 ```
 
 If packages are missing, install:
